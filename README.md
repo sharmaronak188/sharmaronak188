@@ -1,4 +1,4 @@
-### Hello world, I'm Ronak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello world, I'm Ronak <img src="https://raw.githubusercontent.com/sharmaronak188/sharmaronak188/master/wave.gif" width="20px">
 
 <!--
 **sharmaronak188/sharmaronak188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
