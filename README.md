@@ -6,4 +6,4 @@
  
 <!--  <img  src="https://profile-counter.glitch.me/sharmaronak188/count.svg" /> -->
 
-![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmaronak188&show_icons=true&count_private=true&theme=radical)
+![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmaronak188&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
