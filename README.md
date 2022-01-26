@@ -2,8 +2,9 @@
  <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
   
   <h3>My name is Ronak! Glad to see you here!</h3>
+  
   <br/>
-
+  
   **About me :**
 
   - 💼 FrontEnd Engineer at [Capgemini](https://www.capgemini.com/)
@@ -14,7 +15,6 @@
 
 <br/>
 
- 
  **Languages and Tools :**  
  
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
@@ -31,4 +31,5 @@
 <br/>
 
    ![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmaronak188&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+   
 <br/>
