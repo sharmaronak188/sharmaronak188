@@ -3,7 +3,17 @@
   
   <h3>My name is Ronak! Glad to see you here!</h3>
   <br/>
-  <br/>
+
+  **About me**
+
+  - 💼 FrontEnd Engineer at [Capgemini](https://www.capgemini.com/)
+
+  - 📈 Passionate about building stuff with new technology stacks.
+
+  - ❤️ I love writing JavaScript, and building DIY projects most of the times.
+
+<br/>
+
  
  **Languages and Tools:**  
  
@@ -18,6 +28,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
  
 <!--  <img  src="https://profile-counter.glitch.me/sharmaronak188/count.svg" /> -->
+<br/>
 
 ![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmaronak188&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 <br/>
