@@ -4,7 +4,7 @@
   <h3>My name is Ronak! Glad to see you here!</h3>
   <br/>
 
-  **About me**
+  **About me :**
 
   - 💼 FrontEnd Engineer at [Capgemini](https://www.capgemini.com/)
 
@@ -15,7 +15,7 @@
 <br/>
 
  
- **Languages and Tools:**  
+ **Languages and Tools :**  
  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
