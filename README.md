@@ -7,7 +7,7 @@
   
   **About me :**
 
-  - 💼 FrontEnd Engineer at [Capgemini](https://www.capgemini.com/)
+  - 💼 FrontEnd Engineer at [Lendingtree](https://www.lendingtree.com/)
 
   - 📈 Passionate about building stuff with new technology stacks.
 
