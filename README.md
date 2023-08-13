@@ -5,17 +5,17 @@
   
   <br/>
   
-  **About me :**
+  **About me:**
 
-  - 💼 FrontEnd Engineer at [Lendingtree](https://www.lendingtree.com/)
+  - 💼 Software Engineer at [Lendingtree](https://www.lendingtree.com/)
 
   - 📈 Passionate about building stuff with new technology stacks.
 
-  - ❤️ I love writing JavaScript, and building DIY projects most of the times.
+  - ❤️ I love writing JavaScript, and building DIY projects most of the time.
 
 <br/>
 
- **Languages and Tools :**  
+ **Languages and Tools:**  
  
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
