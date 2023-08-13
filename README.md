@@ -28,8 +28,7 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
  
 <!--  <img  src="https://profile-counter.glitch.me/sharmaronak188/count.svg" /> -->
-<br/>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaronak188&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   
+<br/>  
   ![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmaronak188&show_icons=true&include_all_commits=true&count_private=false&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaronak188&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 <br/>
